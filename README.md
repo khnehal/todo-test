@@ -3,7 +3,7 @@ Simple todo list
 
 
 How to Run this app:
-Clone the reporsitory
-cd my-app/
-npm install
-npm start
+1. Clone the reporsitory,
+2. cd my-app/
+3. npm install
+4. npm start
